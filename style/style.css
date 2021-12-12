@@ -21,6 +21,7 @@ p{
 body{
   overflow: hidden;
   font-family: 'montserrat';
+  background-color: black;
 }
 
 .flip-card {
